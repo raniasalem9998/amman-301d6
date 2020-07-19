@@ -37,7 +37,7 @@ function displayPics(){
   }
   console.log(rando);
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the constiable declaration from `const to `const`.
-  // assining using let/const will make the assignd visible only inside the scope.
+  // assining using let will make the assignd visible only inside the scope.
   // PUT YOUR RESPONSE IN THIS COMMENT
   console.log(viewed);
 
